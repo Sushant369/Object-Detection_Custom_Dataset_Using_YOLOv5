@@ -8,10 +8,10 @@
 
 ![image](https://github.com/Sushant369/Custom_Object-Detection_Using_YOLOv5/assets/72655705/68d73105-375e-420e-a554-97da77a7d6df)
 
-**> Created 4 custom classes - Chair, Laptop, Pen, Shoes.
-> Annotated images manually using Roboflow.
-> Used YOLOv5s model to train model for my custom dataset. 
-> Used 79% data for training and 21% data for validation. No test images.**
+**> Created 4 custom classes - Chair, Laptop, Pen, Shoes.**
+**> Annotated images manually using Roboflow.**
+**> Used YOLOv5s model to train model for my custom dataset. **
+**> Used 79% data for training and 21% data for validation. No test images.****
 
 **Output**
 
